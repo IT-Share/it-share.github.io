@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2017%2F07%2F18%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[python基础教程资源合集]]></title>
+    <url>%2F2017%2F07%2F16%2Fpython%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B%2F</url>
+    <content type="text"><![CDATA[python3完全零基础入门视频 出处不详 【课程简介】#### 【课程内容】 计算机基础常识 Python语言概览、安装与运行 Python 变量、数据类型及存储 Python 常用数据类型概览 数值与字符串 列表list 字典表dict 与元组 tuple 文件与类型汇总 语句、表达式与if分支 循环语句 迭代 函数定义与参数 函数与Lambda表达式 函数应用与工具 包与模块管理及面向对象初步 面向对象编程OOP 异常处理及测试 unittest单元测试 数值、日期与时间 对象持久化 字符与编码 正则表达式 系统编程 python并行编程 函数高级应用及装饰器 Python-SublimeText-Python-配置 虚拟环境配置-csv文件读取处理 JSON-Excel 数据文件处理 Python 操作SQLite 【下载地址】百度网盘]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>基础教程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[test1]]></title>
+    <url>%2F2017%2F07%2F11%2Ftest1%2F</url>
+    <content type="text"><![CDATA[测试这是个测试]]></content>
+      <tags>
+        <tag>test1</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World2]]></title>
+    <url>%2F2017%2F07%2F11%2Fmy_index%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>c1</category>
+        <category>c2</category>
+      </categories>
+      <tags>
+        <tag>test1</tag>
+        <tag>test2</tag>
+      </tags>
+  </entry>
+</search>
